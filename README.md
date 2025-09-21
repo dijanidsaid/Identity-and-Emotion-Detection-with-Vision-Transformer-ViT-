@@ -49,5 +49,4 @@ Both datasets are preprocessed with resizing, normalization, and optional data a
 
 
 
-[Your License Here]
 
